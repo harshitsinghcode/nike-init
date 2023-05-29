@@ -1,0 +1,154 @@
+.frame-child {
+  position: absolute;
+  height: 98.26%;
+  width: 98.89%;
+  top: 0;
+  right: 1.11%;
+  bottom: 1.74%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bg-icon {
+  position: absolute;
+  top: 165.5px;
+  left: 200.5px;
+  width: 1600px;
+  height: 960px;
+}
+.air-max,
+.nike-air-max {
+  position: absolute;
+  display: inline-block;
+}
+.air-max {
+  top: 0;
+  left: 1px;
+  letter-spacing: -0.01em;
+  font-weight: 900;
+  width: 645.67px;
+  height: 204.26px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.nike-air-max {
+  top: 193.3px;
+  left: 0.86px;
+  font-size: 40px;
+  letter-spacing: 0.15em;
+  font-weight: 500;
+  width: 391px;
+  height: 55.8px;
+}
+.text-section-child {
+  position: absolute;
+  top: 552.72px;
+  left: 0.41px;
+  border-radius: 34px;
+  background-color: #cbd6e0;
+  width: 144px;
+  height: 54.35px;
+}
+.add-to-cart,
+.i,
+.nothing-as-fly {
+  position: absolute;
+  display: inline-block;
+}
+.add-to-cart {
+  top: 568.95px;
+  left: 24.58px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  color: #171717;
+  width: 95px;
+  height: 21.92px;
+}
+.i,
+.nothing-as-fly {
+  font-weight: 500;
+  height: 55.8px;
+}
+.nothing-as-fly {
+  top: 388.59px;
+  left: 0.72px;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  line-height: 228%;
+  color: #c2d4e3;
+  width: 490px;
+}
+.i {
+  top: 290.94px;
+  left: 0.79px;
+  font-size: 45px;
+  width: 391px;
+}
+.text-section {
+  position: absolute;
+  top: 139px;
+  left: 230.44px;
+  width: 646.67px;
+  height: 607.07px;
+  transform: rotate(0.04deg);
+  transform-origin: 0 0;
+}
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 126px;
+  height: 960px;
+}
+.style-takes-over {
+  position: absolute;
+  top: 171px;
+  left: 76px;
+  font-size: 18px;
+  letter-spacing: 1.59em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #282828;
+  text-align: center;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.vector-icon {
+  position: absolute;
+  height: 1.84%;
+  width: 3.09%;
+  top: 4.5%;
+  right: 94.56%;
+  bottom: 93.65%;
+  left: 2.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home {
+  position: relative;
+  letter-spacing: 0.14em;
+  font-weight: 600;
+}
+.menu {
+  position: absolute;
+  top: 53px;
+  left: 555px;
+  width: 532px;
+  height: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 84px;
+  font-size: var(--font-size-mini);
+}
+.frame {
+  position: relative;
+  width: 100%;
+  height: 977px;
+  text-align: left;
+  font-size: 171.1px;
+  color: var(--color-white);
+  font-family: var(--font-barlow);
+}

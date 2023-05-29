@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-barlow: Barlow;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+}
